@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+user_config.json
+calibration_profile.json
+debug/*
+!debug/.gitkeep
